@@ -5,3 +5,7 @@
 ## 파일 구성
 
 - 실습에서 사용하는 파일은 `README.md` 하나만 사용합니다.
+
+## 문서
+
+- [Commit Convention](docs/COMMIT_CONVENTION.md)
